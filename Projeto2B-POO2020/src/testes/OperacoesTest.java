@@ -1,6 +1,6 @@
 package testes;
 import static org.junit.Assert.assertEquals;
-/* teste commit */
+/* teste commit 1 */
 import org.junit.jupiter.api.Test;
 
 import main.Operacoes;
